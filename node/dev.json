@@ -1,22 +1,22 @@
 {
-  "environment": "xcvcx",
-  "nodeName": "cvxcv",
-  "nodeType": "vzxcv",
-  "region": "czxv",
-  "availabilityZone": "zcxv",
-  "instanceType": "zvc",
-  "os": "czv",
+  "environment": "1",
+  "nodeName": "1",
+  "nodeType": "1",
+  "region": "1",
+  "availabilityZone": "1",
+  "instanceType": "1",
+  "os": "1",
   "kubernetes": {
-    "role": "zcv",
-    "version": "4544"
+    "role": "1",
+    "version": "1"
   },
   "resources": {
-    "cpu": "6565",
-    "memory": "dvzcx",
-    "disk": "dfzcx"
+    "cpu": "1",
+    "memory": "1",
+    "disk": "1"
   },
   "labels": {
-    "environment": "dzcx",
-    "team": "dzcx"
+    "environment": "1",
+    "team": "1"
   }
 }
